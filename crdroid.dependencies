@@ -1,0 +1,12 @@
+[
+    {
+        "repository": "crdroidandroid/android_vendor_samsung_d2s",
+        "target_path": "vendor/samsung/d2s",
+        "branch": "13.0"
+    },
+    {
+        "repository": "crdroidandroid/android_device_samsung_exynos9820-common",
+        "target_path": "device/samsung/exynos9820-common",
+        "branch": "13.0"
+    }
+]
